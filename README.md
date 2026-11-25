@@ -4,7 +4,7 @@ Fontes em Markdown do site público da unidade curricular, publicado com GitHub 
 
 | Ficheiro | Página |
 |---|---|
-| `index.md` | Entrada: visão geral, modalidades, calendário, contactos |
+| `index.md` | Entrada: visão geral, proponentes, épocas, calendário, contactos |
 | `propostas.md` | Fase 1 – Propostas, candidaturas, alocação de estudantes e tutores |
 | `contratos.md` | Contratos de estágio |
 | `realizacao.md` | Fase 2 – Realização do projeto |

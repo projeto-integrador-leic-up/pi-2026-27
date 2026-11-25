@@ -18,7 +18,7 @@ Todos os projetos realizados numa **entidade externa à U.Porto** são enquadrad
 
 ---
 
-## Modalidade A – Propostas de estudantes
+## Propostas de estudantes
 
 O estudante encontra uma oportunidade numa entidade externa e propõe o projeto, que é realizado como estágio curricular. Pode procurar, por exemplo:
 
@@ -32,7 +32,7 @@ Requisitos:
 - A entidade de acolhimento é **externa à U.Porto** e tem personalidade jurídica própria (NIF diferente do da FEUP/UP), porque é obrigatório um [contrato](contratos.md) com a FEUP.
 - A entidade indica o **supervisor** e dá o seu acordo à proposta.
 
-Quem quer um projeto seu numa unidade da U.Porto deve encontrar um docente que aceite ser o proponente e submetê-lo pela [modalidade B](#modalidade-b).
+Quem quer um projeto seu numa unidade da U.Porto deve encontrar um docente que aceite ser o proponente e submetê-lo como [proposta de docente](#modalidade-b).
 
 ### Época normal (2.º semestre)
 
@@ -128,7 +128,7 @@ Aplica-se aos estágios da época normal.
 
 ---
 
-## Modalidade B – Propostas de docentes ou entidades convidadas
+## Propostas de docentes ou entidades convidadas
 {: #modalidade-b }
 
 Para **docentes** e **entidades empresariais ou de investigação convidadas**. O projeto pode decorrer na U.Porto ou numa entidade externa; neste último caso é enquadrado como estágio curricular, com contrato.
@@ -167,7 +167,7 @@ Se a entidade for externa à U.Porto, é necessário um [contrato](contratos.md)
 ### Candidaturas dos estudantes
 {: #candidaturas }
 
-- Só se podem candidatar os estudantes inscritos na UC que **não tenham uma proposta de estágio aprovada ou pendente** (modalidade A).
+- Só se podem candidatar os estudantes inscritos na UC que **não tenham uma proposta própria aprovada ou pendente**.
 - Cada estudante indica **5 a 10 subprojetos** por ordem de preferência, com uma motivação para cada um.
 - Formulário de candidatura: _a disponibilizar_
 - Durante o período de candidatura (18–27 jan), os estudantes são incentivados a contactar os proponentes dos subprojetos que lhes interessam. Na seriação (28–29 jan) já não há interação com os estudantes.

@@ -47,7 +47,7 @@ Entregar o relatório dentro do prazo é **condição de frequência**.
 
 ## Grelha de avaliação (supervisor)
 
-- O supervisor, ou o proponente, preenche a grelha e envia-a ao tutor, que a valida. Isto aplica-se em todas as épocas e modalidades. A grelha substitui o antigo inquérito de satisfação dos estágios fora de época.
+- O supervisor, ou o proponente, preenche a grelha e envia-a ao tutor, que a valida. Isto aplica-se em todas as épocas, seja quem for o proponente. A grelha substitui o antigo inquérito de satisfação dos estágios fora de época.
 - Grelha: _a definir_
 
 ## Apresentação e discussão final

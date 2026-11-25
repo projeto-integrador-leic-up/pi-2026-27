@@ -6,7 +6,7 @@ nav_order: 3
 # Contratos de estágio
 {: .no_toc }
 
-É obrigatório um contrato sempre que o projeto decorre numa **entidade externa à U.Porto** (empresa ou instituto de investigação). O processo é **o mesmo em todas as épocas e modalidades**. Em caso de dúvida, contacte o [Secretariado da L.EIC](mailto:secretariado.leic@fe.up.pt).
+É obrigatório um contrato sempre que o projeto decorre numa **entidade externa à U.Porto** (empresa ou instituto de investigação). O processo é **o mesmo em todas as épocas, seja quem for o proponente**. Em caso de dúvida, contacte o [Secretariado da L.EIC](mailto:secretariado.leic@fe.up.pt).
 
 1. TOC
 {:toc}
