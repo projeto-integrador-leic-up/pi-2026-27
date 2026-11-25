@@ -11,12 +11,19 @@ Projeto Integrador é uma unidade curricular do 2.º semestre do 3.º ano da Lic
 {: .important }
 A informação oficial está na [ficha da UC no SIGARRA](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=587008): objetivos, programa e critérios de avaliação. Este site complementa a ficha com os **procedimentos, prazos, formulários e modelos**.
 
-## Links ativos
+## Submissão de propostas
 
-| Propostas de projeto submetidas por | Onde | Prazo |
-|---|---|---|
-| Docentes e entidades convidadas | [Formulário de proposta](https://forms.gle/dQ5DrfXWi2ZNx3qb7) | até 8/jan/2027 |
-| Estudantes – época normal | [SIGARRA](https://sigarra.up.pt/feup/pt/estagios_processos.ver_processo?p_id=34536&pv_perfil=PROP) ([instruções](propostas.md#sigarra)) | 1.ª fase até 8/jan/2027; 2.ª fase até 5/fev/2027 |
+### Por docentes ou entidades convidadas
+
+Docentes e entidades empresariais ou de investigação convidadas submetem propostas. O projeto pode decorrer na U.Porto ou numa entidade externa. Cada proposta pode conter **até 4 subprojetos** com o mesmo supervisor e o mesmo contexto, mas com objetivos e tarefas próprios de cada estudante. Os estudantes candidatam-se às propostas aprovadas e a equipa docente faz a atribuição. Estes projetos decorrem na época normal.
+
+**Submeter:** [Formulário de proposta](https://forms.gle/dQ5DrfXWi2ZNx3qb7), até **8/jan/2027**.
+
+### Por estudantes
+
+O estudante encontra uma oportunidade numa entidade empresarial ou de investigação **externa à U.Porto**, com NIF próprio, e submete a proposta, que é validada pela equipa docente. O projeto pode decorrer em qualquer das épocas (ver abaixo).
+
+**Submeter (época normal):** [SIGARRA](https://sigarra.up.pt/feup/pt/estagios_processos.ver_processo?p_id=34536&pv_perfil=PROP) ([instruções](propostas.md#sigarra)), 1.ª fase até **8/jan/2027** e 2.ª fase até **5/fev/2027**. Para as épocas concentradas, ver [Propostas e alocação](propostas.md#epocas-concentradas).
 
 {: .note }
 Os projetos realizados numa **entidade externa à U.Porto** são enquadrados como **estágio curricular** e exigem a celebração de um [contrato](contratos.md), seja quem for o proponente.
@@ -29,19 +36,11 @@ Os projetos realizados numa **entidade externa à U.Porto** são enquadrados com
 | 2. Realização do projeto (162 h) | [Realização do projeto](realizacao.md) |
 | 3. Entregas, apresentação e avaliação | [Entregas e avaliação](finalizacao.md) |
 
-## Quem pode propor projetos
-
-**Estudantes.**
-O estudante encontra uma oportunidade numa entidade empresarial ou de investigação **externa à U.Porto**, com NIF próprio, e submete a proposta, que é validada pela equipa docente. O projeto pode decorrer em qualquer das épocas (ver abaixo).
-
-**Docentes ou entidades convidadas.**
-Docentes e entidades empresariais ou de investigação convidadas submetem propostas. O projeto pode decorrer na U.Porto ou numa entidade externa. Cada proposta pode conter **até 4 subprojetos** com o mesmo supervisor e o mesmo contexto, mas com objetivos e tarefas próprios de cada estudante. Os estudantes candidatam-se às propostas aprovadas e a equipa docente faz a atribuição. Estes projetos decorrem na época normal.
-
 ## Épocas de realização
 
 | Época | Período de realização | Defesa final | Projetos propostos por |
 |---|---|---|---|
-| **Normal** | 2.º semestre (15 fev – 4 jun 2027), 8–10 h por semana; a sexta-feira está reservada no horário | junho/julho | Todos |
+| **Normal** | 2.º semestre (15 fev – 4 jun 2027), 8–10 h por semana; a sexta-feira está reservada no horário | 28 jun – 9 jul | Todos |
 | **Inverno** (concentrada) | entre o 1.º e o 2.º semestre (janeiro/fevereiro) | março | Estudantes |
 | **Verão** (concentrada) | depois do 2.º semestre (julho/agosto) | setembro, na época especial de conclusão | Estudantes |
 | **Verão antecipado** (concentrada) | no verão entre o 2.º e o 3.º ano, com validação prévia dos coordenadores | março | Estudantes |
