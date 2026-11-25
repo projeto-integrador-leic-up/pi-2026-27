@@ -187,4 +187,4 @@ As funções do tutor estão em [Realização do projeto](realizacao.md#papeis).
 
 ## Para entidades de acolhimento
 
-Ver a página [Para entidades](entidades.md).
+Ver a página [Para entidades externas](entidades.md).

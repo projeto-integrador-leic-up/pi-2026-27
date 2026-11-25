@@ -1,5 +1,5 @@
 ---
-title: Para entidades
+title: Para entidades externas
 nav_order: 5
 ---
 
