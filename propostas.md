@@ -181,7 +181,7 @@ Cada projeto tem um **tutor** da equipa docente.
 - Nos outros casos, os coordenadores da UC atribuem um tutor por área de interesse. Sempre que possível, os projetos na mesma entidade ficam com o mesmo tutor.
 - Nas épocas de inverno e verão, o tutor é proposto pelo estudante e confirmado na aprovação da proposta.
 
-As funções do tutor estão em [Realização](realizacao.md#papeis).
+As funções do tutor estão em [Realização do projeto](realizacao.md#papeis).
 
 ---
 

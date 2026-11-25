@@ -24,7 +24,7 @@ A informação oficial está na [ficha da UC no SIGARRA](https://sigarra.up.pt/f
 | Fase | Página |
 |---|---|
 | 1. Propostas, candidaturas, alocação de estudantes e tutores, contratos | [Propostas e alocação](propostas.md) · [Contratos](contratos.md) |
-| 2. Realização do projeto (162 h) | [Realização](realizacao.md) |
+| 2. Realização do projeto (162 h) | [Realização do projeto](realizacao.md) |
 | 3. Entregas, apresentação e avaliação | [Entregas e avaliação](finalizacao.md) |
 
 ## Duas formas de chegar a um projeto

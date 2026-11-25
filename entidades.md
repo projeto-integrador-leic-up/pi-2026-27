@@ -50,7 +50,7 @@ A avaliação final inclui ainda um relatório retrospetivo e uma apresentação
 1. **Proposta.** A entidade ou o docente submete-a no formulário. No caso de um estágio já acordado com um estudante, é o estudante que a submete no SIGARRA.
 2. **Aprovação e alocação.** Os regentes aprovam as propostas, recebem as candidaturas dos estudantes, fazem a alocação e atribuem um tutor. Ver [Propostas e alocação](propostas.md).
 3. **Contrato.** Para entidades externas à U.Porto, o Secretariado da L.EIC emite o [contrato de estágio](contratos.md), que é assinado antes do início.
-4. **Desenvolvimento.** Reunião de arranque, trabalho acompanhado pelo supervisor e reunião de preparação da apresentação. Ver [Realização](realizacao.md).
+4. **Desenvolvimento.** Reunião de arranque, trabalho acompanhado pelo supervisor e reunião de preparação da apresentação. Ver [Realização do projeto](realizacao.md).
 5. **Avaliação.** Grelha do supervisor, relatório do estudante e apresentação final. Ver [Entregas e avaliação](finalizacao.md).
 
 ## Contratos e confidencialidade
