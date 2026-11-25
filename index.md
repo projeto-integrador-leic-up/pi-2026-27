@@ -64,8 +64,8 @@ Nas épocas concentradas o estágio tem pelo menos 162 h, entre 8 e 35 h por sem
 | 1–12 fev | Preenchimento e assinatura do contrato (projetos em entidades externas) | Todos |
 | 15 fev | Início do 2.º semestre | Todos |
 | 4 jun | Fim do período de aulas | Todos |
-| até 18 jun | Entrega do relatório retrospetivo (2 semanas após o fim do período letivo) | Todos |
-| junho/julho | Apresentações finais (datas _a definir_) | Todos |
+| até 18 jun | Entrega do relatório retrospetivo, com um máximo de 4 páginas (2 semanas após o fim do período letivo) | Todos |
+| junho/julho | Defesas: 15–20 min por estudante (datas _a definir_) | Todos |
 
 Os prazos das épocas de inverno e verão estão em [Propostas e alocação](propostas.md#epocas-concentradas).
 

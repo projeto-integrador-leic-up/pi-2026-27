@@ -36,7 +36,7 @@ No estágio de verão a classificação é lançada até 15 de setembro. Quem pr
 
 ## Relatório final retrospetivo (estudante)
 
-- Máximo de **4 páginas**, segundo o modelo: _a definir_
+- Máximo de **4 páginas**, segundo o modelo a disponibilizar.
 - Faz uma análise crítica do processo de desenvolvimento e das aprendizagens, apoiada em evidências (registo de trabalho, artefactos produzidos).
 - Declara como foram usadas as ferramentas de IA, nos termos acordados na reunião de arranque.
 - Não inclui informação confidencial da instituição de acolhimento.
@@ -53,7 +53,7 @@ Entregar o relatório dentro do prazo é **condição de frequência**.
 ## Apresentação e discussão final
 
 - Sessão **presencial e individual**, perante um júri de 3 docentes que inclui o tutor.
-- Cada estudante tem **15 a 20 minutos** para a apresentação e a discussão.
+- Cada defesa dura **15 a 20 minutos**: **5 a 10 minutos** de apresentação e o restante tempo para discussão.
 - Inclui uma demonstração dos resultados, quando fizer sentido.
 - Em cada época, o Secretariado marca no **mapa de exames** um bloco (dia e horas) onde decorrem todas as defesas orais dessa época.
 

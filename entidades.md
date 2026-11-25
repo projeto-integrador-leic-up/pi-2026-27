@@ -43,7 +43,7 @@ Cada estudante desenvolve um projeto individual. Uma mesma proposta pode, no ent
 - Participação nas duas [reuniões tripartidas](realizacao.md#papeis) obrigatórias, com o estudante, o supervisor e o tutor: uma no arranque e outra na preparação da apresentação final.
 - No fim, o preenchimento de uma [grelha de avaliação](finalizacao.md) do trabalho.
 
-A avaliação final inclui ainda um relatório retrospetivo e uma apresentação individual perante um júri de docentes.
+A avaliação final inclui ainda um relatório retrospetivo do estudante (máximo de 4 páginas) e uma defesa individual de 15 a 20 minutos perante um júri de docentes.
 
 ## Como funciona
 
