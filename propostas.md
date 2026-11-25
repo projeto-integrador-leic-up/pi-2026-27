@@ -18,7 +18,11 @@ As propostas são escritas em português ou em inglês. A equipa docente valida-
 
 ## Modalidade A – Por iniciativa do estudante (estágio curricular)
 
-O estudante encontra uma oportunidade de estágio e propõe-na. Pode procurar, por exemplo, na [Bolsa de Emprego da FEUP](https://sigarra.up.pt/feup/pt/WEB_BASE.GERA_PAGINA?P_pagina=19498) ou contactar diretamente as entidades.
+O estudante encontra uma oportunidade de estágio e propõe-na. Pode procurar, por exemplo:
+
+- na [Bolsa de Emprego da FEUP](https://sigarra.up.pt/feup/pt/WEB_BASE.GERA_PAGINA?P_pagina=19498);
+- na **lista de entidades que acolheram estudantes de PI em edições anteriores**, disponível no Moodle da UC;
+- contactando diretamente as entidades.
 
 Requisitos:
 
@@ -58,7 +62,12 @@ Em alternativa à época normal, o estágio pode decorrer de forma concentrada:
 - no **inverno**, no intervalo entre o 1.º e o 2.º semestre (janeiro/fevereiro), com defesa em março;
 - no **verão**, depois do 2.º semestre, com defesa em setembro, na época especial de conclusão (normalmente na 1.ª quinzena).
 
- As regras estão no [Regulamento dos Pedidos de Antecipação ou Adiamento de Estágio Curricular](https://drive.google.com/file/d/1j6SyC3CGBo9n35DbXUy85RCUdhGQrTvb/view?usp=sharing).
+{: .warning }
+**Estágio de verão e candidatura a mestrado.** A classificação de um estágio de verão só é lançada em setembro (até 15 de setembro, segundo o calendário escolar da FEUP). Se pretende candidatar-se a um mestrado, confirme primeiro que esta data é compatível com os prazos da candidatura.
+
+**Antecipação: verão entre o 2.º e o 3.º ano.** Também é possível fazer o estágio por antecipação, no verão entre o 2.º e o 3.º ano. É preciso validar a proposta previamente com os coordenadores da UC, e aplicam-se as mesmas regras dos outros estágios concentrados. A classificação só é lançada depois, quando o estudante se inscrever na UC, no fim desse semestre.
+
+As regras estão no [Regulamento dos Pedidos de Antecipação ou Adiamento de Estágio Curricular](https://drive.google.com/file/d/1j6SyC3CGBo9n35DbXUy85RCUdhGQrTvb/view?usp=sharing).
 
 **Admissibilidade.** Todas as condições têm de se verificar:
 

@@ -29,7 +29,10 @@ O processo é **igual nas três épocas**. Só as datas mudam: a defesa é em ma
 | Grelha de avaliação (supervisor) | _a definir_ | _a definir_ | _a definir_ |
 | Apresentações e discussões | março | junho/julho | época especial de conclusão (normalmente na 1.ª quinzena de setembro) |
 
-Datas exatas das apresentações: _a definir_.
+As datas das apresentações são as do bloco marcado pelo Secretariado no mapa de exames de cada época.
+
+{: .note }
+No estágio de verão a classificação é lançada até 15 de setembro. Quem pretende candidatar-se a mestrado deve confirmar que esta data é compatível com a candidatura. No verão antecipado (entre o 2.º e o 3.º ano), a classificação só é lançada depois da inscrição na UC, no fim desse semestre.
 
 ## Relatório final retrospetivo (estudante)
 
@@ -50,9 +53,9 @@ Entregar o relatório dentro do prazo é **condição de frequência**.
 ## Apresentação e discussão final
 
 - Sessão **presencial e individual**, perante um júri de 3 docentes que inclui o tutor.
-- Duração: _a definir_
+- Cada estudante tem **15 a 20 minutos** para a apresentação e a discussão.
 - Inclui uma demonstração dos resultados, quando fizer sentido.
-- Calendário das sessões e júris: _a definir_
+- Em cada época, o Secretariado marca no **mapa de exames** um bloco (dia e horas) onde decorrem todas as defesas orais dessa época.
 
 ## Classificação
 

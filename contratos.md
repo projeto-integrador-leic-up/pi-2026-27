@@ -28,7 +28,7 @@ O contrato só produz efeitos quando estiverem recolhidas todas as assinaturas, 
 | Normal | 1–12 fev (início dos projetos a 19 fev) |
 | Inverno / Verão | até à data de início do estágio |
 
-Minuta, apenas para consulta: _a disponibilizar_
+Minuta base do contrato, apenas para consulta: será disponibilizada brevemente neste site.
 
 {: .warning }
 O contrato é sempre gerado pelo Secretariado a partir dos dados do formulário. Não são aceites alterações ao documento gerado, nem contratos, NDAs ou outros documentos da entidade em sua substituição. Se a entidade insistir no seu próprio contrato, o estágio não pode avançar.

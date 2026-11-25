@@ -42,6 +42,7 @@ Docentes e entidades empresariais ou de investigação convidadas submetem propo
 | **Normal** | 2.º semestre (15 fev – 4 jun 2027), 8–10 h por semana; a sexta-feira está reservada no horário | junho/julho | A e B |
 | **Inverno** (concentrada) | entre o 1.º e o 2.º semestre (janeiro/fevereiro) | março | A |
 | **Verão** (concentrada) | depois do 2.º semestre (julho/agosto) | setembro, na época especial de conclusão | A |
+| **Verão antecipado** (concentrada) | no verão entre o 2.º e o 3.º ano, com validação prévia dos coordenadores | classificação lançada no fim do semestre da inscrição na UC | A |
 
 Nas épocas concentradas o estágio tem pelo menos 162 h, entre 8 e 35 h por semana. O processo e os critérios de avaliação são **iguais em todas as épocas**; só mudam as datas.
 
@@ -75,8 +76,3 @@ Para dúvidas de procedimento (propostas de estágio, contratos, prazos), contac
 - Sala I 012A, FEUP/DEI, Rua Dr. Roberto Frias, s/n, 4200-465 Porto
 - Segunda a sexta, 10h–12h e 14h30–16h30
 - Telefones: +351 22 5082134 · +351 22 0414538
-
-Validação de ofertas de estágio: Unidade Talent, [talent@fe.up.pt](mailto:talent@fe.up.pt)
-
-Entidades interessadas em acolher estudantes: ver [Para entidades](entidades.md).
-
