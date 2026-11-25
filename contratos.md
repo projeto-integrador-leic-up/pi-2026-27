@@ -16,7 +16,7 @@ nav_order: 1
 
 ## Processo
 
-1. Depois de a proposta ser aprovada e o tutor atribuído, o estudante preenche o **formulário de dados para o contrato**: _a disponibilizar_ <!-- TODO: link do formulário único -->
+1. Depois de a proposta ser aprovada e o tutor atribuído, o estudante preenche o **formulário de dados para o contrato**: _a disponibilizar_
 2. O Secretariado verifica os dados e gera o contrato num **PDF no modelo da FEUP**. Envia-o para o e-mail institucional do estudante.
 3. O estudante recolhe as assinaturas do representante da entidade, do supervisor e do tutor. Depois envia o documento ao Secretariado.
 4. O Secretariado recolhe as assinaturas da Direção da L.EIC e da Direção da FEUP. A Direção da FEUP assina sempre em último lugar.
@@ -28,7 +28,7 @@ O contrato só produz efeitos quando estiverem recolhidas todas as assinaturas, 
 | Normal | 1–12 fev (início dos projetos a 19 fev) |
 | Inverno / Verão | até à data de início do estágio |
 
-Minuta, apenas para consulta: _a disponibilizar_ <!-- TODO: link da minuta única (PT/EN) -->
+Minuta, apenas para consulta: _a disponibilizar_
 
 {: .warning }
 O contrato é sempre gerado pelo Secretariado a partir dos dados do formulário. Não são aceites alterações ao documento gerado, nem contratos, NDAs ou outros documentos da entidade em sua substituição. Se a entidade insistir no seu próprio contrato, o estágio não pode avançar.

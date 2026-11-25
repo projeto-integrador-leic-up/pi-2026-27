@@ -58,7 +58,7 @@ Em alternativa à época normal, o estágio pode decorrer de forma concentrada:
 - no **inverno**, no intervalo entre o 1.º e o 2.º semestre (janeiro/fevereiro), com defesa em março;
 - no **verão**, depois do 2.º semestre, com defesa em setembro, na época especial de conclusão (normalmente na 1.ª quinzena).
 
- As regras estão no [Regulamento dos Pedidos de Antecipação ou Adiamento de Estágio Curricular](https://drive.google.com/file/d/1j6SyC3CGBo9n35DbXUy85RCUdhGQrTvb/view?usp=sharing). <!-- TODO: rever o regulamento (em vigor desde 10/11/2025) para o alinhar com as épocas de inverno e verão -->
+ As regras estão no [Regulamento dos Pedidos de Antecipação ou Adiamento de Estágio Curricular](https://drive.google.com/file/d/1j6SyC3CGBo9n35DbXUy85RCUdhGQrTvb/view?usp=sharing).
 
 **Admissibilidade.** Todas as condições têm de se verificar:
 
@@ -69,14 +69,14 @@ Em alternativa à época normal, o estágio pode decorrer de forma concentrada:
 **Duração e calendário.**
 
 - Pelo menos **162 h**, entre 8 e 35 h por semana.
-- Inverno: entre o fim do 1.º semestre e o início do 2.º semestre (janeiro/fevereiro). <!-- TODO: datas limite -->
-- Verão: início até **20 de julho** e conclusão a tempo de entregar o relatório antes da defesa em setembro. <!-- TODO: data limite de conclusão -->
+- Inverno: entre o fim do 1.º semestre e o início do 2.º semestre (janeiro/fevereiro). Datas limite: _a definir_.
+- Verão: início até **20 de julho** e conclusão a tempo de entregar o relatório antes da defesa em setembro (data limite de conclusão _a definir_).
 
 **Passos.**
 
 1. Encontrar a entidade de acolhimento. Um trabalhador-estudante pode fazer o estágio na entidade empregadora.
 2. Preparar com a entidade um plano detalhado: contexto, objetivos, tarefas com datas de início e fim, e entregáveis.
-3. Contactar um potencial tutor da lista de docentes elegíveis e indicá-lo na proposta. <!-- TODO: link para a lista -->
+3. Contactar um potencial tutor da lista de docentes elegíveis e indicá-lo na proposta (lista _a definir_).
 4. Submeter a proposta no [formulário](https://docs.google.com/forms/d/e/1FAIpQLSd4kglENa14-Na1MmOfTWhecwE58sv7ZVjh7eyx4tdtJ8pBxw/viewform).
 5. A decisão do regente é comunicada por e-mail ao estudante e ao Secretariado no prazo de **5 dias seguidos** após o fim do período de submissão. A mensagem indica o tutor.
 6. Assinar o [contrato de estágio](contratos.md) antes do início do estágio.
@@ -85,7 +85,7 @@ Em alternativa à época normal, o estágio pode decorrer de forma concentrada:
 
 | Época | Período de submissão |
 |---|---|
-| Inverno | _a definir_ (até ao fim do 1.º semestre) <!-- TODO --> |
+| Inverno | _a definir_ (até ao fim do 1.º semestre) |
 | Verão | 15 mar – 15 jun |
 
 Em qualquer caso, a proposta tem de ser submetida pelo menos **15 dias seguidos antes do início** previsto. Há uma tolerância máxima de 3 dias úteis.
@@ -160,7 +160,7 @@ Se a entidade for externa à U.Porto, é necessário um [contrato](contratos.md)
 
 - Só se podem candidatar os estudantes inscritos na UC que **não tenham uma proposta de estágio aprovada ou pendente** (modalidade A).
 - Cada estudante indica **5 a 10 subprojetos** por ordem de preferência, com uma motivação para cada um.
-- Formulário de candidatura: _a disponibilizar_ <!-- TODO -->
+- Formulário de candidatura: _a disponibilizar_
 - Na seriação pelos proponentes (25–26 jan) não está previsto contacto direto com os candidatos.
 
 ---

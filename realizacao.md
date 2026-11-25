@@ -40,14 +40,14 @@ Na reunião acordam-se:
 - as condições de **uso de ferramentas de IA** no projeto (ver regras na ficha da UC)
 - as regras de confidencialidade e de acesso a dados
 
-O estudante regista o que foi acordado e envia-o ao supervisor e ao tutor. Modelo: _a definir_ <!-- TODO -->
+O estudante regista o que foi acordado e envia-o ao supervisor e ao tutor. Modelo: _a definir_
 
 {: .important }
 Estar presente nas duas reuniões tripartidas e cumprir o plano acordado são **condições de frequência**.
 
 ## Durante o projeto
 
-- O **estudante** mantém um registo de trabalho com as atividades, as decisões, os problemas e as horas. Este registo é a base do relatório retrospetivo. <!-- TODO: decidir se há modelo de registo -->
+- O **estudante** mantém um registo de trabalho com as atividades, as decisões, os problemas e as horas. Este registo é a base do relatório retrospetivo.
 - Se surgirem problemas (desvio de objetivos, falta de condições, ausência de acompanhamento), o estudante ou o supervisor deve **contactar o tutor logo que possível**.
 
 ## Reunião de preparação da apresentação final
