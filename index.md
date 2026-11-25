@@ -71,7 +71,7 @@ Os prazos das épocas de inverno e verão estão em [Propostas e alocação](pro
 
 ## Contactos
 
-Para dúvidas de procedimento (propostas de estágio, contratos, prazos), contacte o **Secretariado da L.EIC**:
+Para dúvidas de procedimento, contacte o **Secretariado da L.EIC**:
 
 - E-mail: [secretariado.leic@fe.up.pt](mailto:secretariado.leic@fe.up.pt)
 - Sala I 012A, FEUP/DEI, Rua Dr. Roberto Frias, s/n, 4200-465 Porto
