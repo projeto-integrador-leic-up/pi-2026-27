@@ -51,22 +51,21 @@ Nas épocas concentradas o estágio tem pelo menos 162 h, entre 8 e 35 h por sem
 
 ## Calendário 2026/27 (época normal)
 
-| Data | A. Propostas de estudantes | B. Propostas de docentes/entidades |
+| Data | Etapa | Modalidade |
 |---|---|---|
-| até 8 jan | Submissão de propostas no SIGARRA – 1.ª fase | Submissão de propostas |
-| até 15 jan | | Publicação das propostas aprovadas |
-| até 22 jan | | Candidaturas – 1.ª fase |
-| 25–26 jan | | Seriação dos candidatos pelos proponentes |
-| 27 jan | | Atribuição dos projetos |
-| 28–29 jan | | Candidaturas – 2.ª fase |
-| até 29 jan | Submissão de propostas no SIGARRA – 2.ª fase | |
-| 1–5 fev | Atribuição de tutores | Atribuição de tutores |
-| 1–12 fev | Preenchimento e assinatura do contrato | Contrato, se a entidade for externa |
-| 15 fev | Início do 2.º semestre | |
-| 19 fev | Reuniões de arranque | |
-| 4 jun | Fim do período de aulas | |
-| até 18 jun | Entrega do relatório retrospetivo (2 semanas após o fim do período letivo) | |
-| junho/julho | Apresentações finais (datas _a definir_) | |
+| até 8 jan | Submissão de propostas (A: 1.ª fase, no SIGARRA; B: no formulário) | A e B |
+| até 15 jan | Feedback sobre as propostas e publicação das propostas aprovadas | A e B |
+| 16–26 jan | Candidaturas – 1.ª fase; os estudantes podem e devem contactar os proponentes | B |
+| 27–28 jan | Seriação dos candidatos pelos proponentes | B |
+| _a definir_ | Atribuição dos projetos | B |
+| _a definir_ | Candidaturas – 2.ª fase, aos subprojetos ainda livres | B |
+| até 29 jan | Submissão de propostas – 2.ª fase, no SIGARRA | A |
+| 1–5 fev | Atribuição de tutores | A e B |
+| 1–12 fev | Preenchimento e assinatura do contrato (projetos em entidades externas) | A e B |
+| 15 fev | Início do 2.º semestre | A e B |
+| 4 jun | Fim do período de aulas | A e B |
+| até 18 jun | Entrega do relatório retrospetivo (2 semanas após o fim do período letivo) | A e B |
+| junho/julho | Apresentações finais (datas _a definir_) | A e B |
 
 Os prazos das épocas de inverno e verão estão em [Propostas e alocação](propostas.md#epocas-concentradas).
 
