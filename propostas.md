@@ -40,9 +40,9 @@ Quem quer um projeto seu numa unidade da U.Porto deve encontrar um docente que a
 |---|---|
 | 1. Acordo com a entidade sobre o estágio, o supervisor e a dedicação semanal | antes de submeter |
 | 2. Submissão da proposta no SIGARRA ([instruções](#sigarra)): 1.ª fase | até 8 jan 2027 |
-| 2. Submissão da proposta no SIGARRA: 2.ª fase | até 29 jan 2027 |
+| 2. Submissão da proposta no SIGARRA: 2.ª fase | até 5 fev 2027 |
 | 3. Avaliação da proposta pela equipa docente e feedback ao estudante | 1.ª fase: até 15 jan; 2.ª fase: após o fecho |
-| 4. [Atribuição de tutor](#tutores) | 1–5 fev |
+| 4. [Atribuição de tutor](#tutores) | 1.ª fase: 1 fev; 2.ª fase: _a definir_ |
 | 5. Preenchimento e assinatura do [contrato](contratos.md) | 1–12 fev |
 
 Uma proposta pode ficar:
@@ -155,11 +155,11 @@ O proponente ou supervisor compromete-se a acompanhar cada estudante todas as se
 |---|---|
 | 1. Submissão da proposta no [formulário](https://forms.gle/dQ5DrfXWi2ZNx3qb7) | até 8 jan |
 | 2. Feedback aos proponentes e publicação das propostas aprovadas aos estudantes | até 15 jan |
-| 3. [Candidaturas](#candidaturas) – 1.ª fase; os estudantes podem e devem contactar os proponentes | 16–26 jan |
-| 4. Seriação dos candidatos pelos proponentes | 27–28 jan |
-| 5. Atribuição dos projetos pela equipa docente (método dos casamentos estáveis) | _a definir_ |
-| 6. Candidaturas – 2.ª fase, aos subprojetos ainda livres | _a definir_ |
-| 7. [Atribuição de tutores](#tutores) | até 5 fev |
+| 3. [Candidaturas](#candidaturas) – 1.ª fase; os estudantes são incentivados a contactar os proponentes | 18–27 jan |
+| 4. Seriação dos candidatos pelos proponentes, sem interação com os estudantes nesta fase | 28–29 jan |
+| 5. Atribuição dos projetos pela equipa docente (método dos casamentos estáveis) e dos tutores | 1 fev |
+| 6. Candidaturas – 2.ª fase, aos subprojetos ainda livres | até 5 fev |
+| 7. Atribuição dos projetos e [tutores](#tutores) da 2.ª fase | _a definir_ |
 | 8. Início dos projetos, com a [reunião de arranque](realizacao.md#arranque) | 19 fev |
 
 Se a entidade for externa à U.Porto, é necessário um [contrato](contratos.md). O processo é iniciado com o Secretariado, mas não impede o início do projeto.
@@ -170,7 +170,7 @@ Se a entidade for externa à U.Porto, é necessário um [contrato](contratos.md)
 - Só se podem candidatar os estudantes inscritos na UC que **não tenham uma proposta de estágio aprovada ou pendente** (modalidade A).
 - Cada estudante indica **5 a 10 subprojetos** por ordem de preferência, com uma motivação para cada um.
 - Formulário de candidatura: _a disponibilizar_
-- Durante o período de candidatura (16–26 jan), os estudantes podem e devem contactar os proponentes dos subprojetos que lhes interessam.
+- Durante o período de candidatura (18–27 jan), os estudantes são incentivados a contactar os proponentes dos subprojetos que lhes interessam. Na seriação (28–29 jan) já não há interação com os estudantes.
 
 ---
 

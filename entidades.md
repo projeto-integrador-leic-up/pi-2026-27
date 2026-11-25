@@ -11,7 +11,7 @@ Tem um problema real para um finalista de Engenharia Informática? No 2.º semes
 | | Como | Prazo |
 |---|---|---|
 | **Propor um projeto** | [Formulário de proposta](https://forms.gle/dQ5DrfXWi2ZNx3qb7), para empresas, instituições, unidades de investigação e docentes | até 8 jan 2027 |
-| **Acolher um projeto já acordado com um estudante** | O estudante submete a proposta no [SIGARRA](https://sigarra.up.pt/feup/pt/estagios_processos.ver_processo?p_id=34536&pv_perfil=PROP) | 1.ª fase até 8 jan 2027; 2.ª fase até 29 jan 2027 |
+| **Acolher um projeto já acordado com um estudante** | O estudante submete a proposta no [SIGARRA](https://sigarra.up.pt/feup/pt/estagios_processos.ver_processo?p_id=34536&pv_perfil=PROP) | 1.ª fase até 8 jan 2027; 2.ª fase até 5 fev 2027 |
 | **Divulgar uma oferta aos estudantes** | [Bolsa de Emprego da FEUP](https://sigarra.up.pt/feup/pt/WEB_BASE.GERA_PAGINA?P_pagina=19498) | — |
 
 1. TOC
