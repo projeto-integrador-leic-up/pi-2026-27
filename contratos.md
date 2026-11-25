@@ -1,7 +1,6 @@
 ---
 title: Contratos de estágio
-parent: Propostas e alocação
-nav_order: 1
+nav_order: 3
 ---
 
 # Contratos de estágio

@@ -1,7 +1,6 @@
 ---
 title: Propostas e alocação
 nav_order: 2
-has_children: true
 ---
 
 # Fase 1 – Propostas e alocação

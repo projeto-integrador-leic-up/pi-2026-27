@@ -6,7 +6,7 @@ nav_order: 1
 # Projeto Integrador – L.EIC – 2026/27
 {: .no_toc }
 
-Projeto Integrador é uma unidade curricular do 2.º semestre do 3.º ano da Licenciatura em Engenharia Informática e Computação (L.EIC), oferecida pela FEUP e FCUP nas instalações FEUP. Cada estudante desenvolve um **projeto em ambiente real, empresarial ou de investigação**, normalmente integrado numa equipa. É acompanhado por um **supervisor** da instituição de acolhimento e por um **tutor** da equipa docente. Representa 6 créditos ECTS, que correspondem a 162 horas de trabalho do estudante.
+Projeto Integrador é uma unidade curricular do 2.º semestre do 3.º ano da Licenciatura em Engenharia Informática e Computação (L.EIC), oferecida pela FEUP e FCUP nas instalações da FEUP. Cada estudante desenvolve um **projeto em ambiente real, empresarial ou de investigação**, normalmente integrado numa equipa. É acompanhado por um **supervisor** da instituição de acolhimento e por um **tutor** da equipa docente. Representa 6 créditos ECTS, que correspondem a 162 horas de trabalho do estudante.
 
 {: .important }
 A informação oficial está na [ficha da UC no SIGARRA](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=587008): objetivos, programa e critérios de avaliação. Este site complementa a ficha com os **procedimentos, prazos, formulários e modelos**.
@@ -15,8 +15,8 @@ A informação oficial está na [ficha da UC no SIGARRA](https://sigarra.up.pt/f
 
 | O quê | Para quem | Prazo |
 |---|---|---|
-| [Submissão de propostas de projeto](https://forms.gle/dQ5DrfXWi2ZNx3qb7) | Docentes e entidades convidadas | até 8 jan 2027 |
-| [Submissão de propostas de estágio no SIGARRA](https://sigarra.up.pt/feup/pt/estagios_processos.ver_processo?p_id=34536&pv_perfil=PROP) ([instruções](propostas.md#sigarra)) | Estudantes, época normal | 1.ª fase até 8 jan 2027; 2.ª fase até 29 jan 2027 |
+| [Submissão de propostas por docentes e entidades externas](https://forms.gle/dQ5DrfXWi2ZNx3qb7) | Docentes e entidades convidadas | até 8/jan/2027 |
+| [Submissão de propostas por estudantes (só estágio curricular)](https://sigarra.up.pt/feup/pt/estagios_processos.ver_processo?p_id=34536&pv_perfil=PROP) ([instruções](propostas.md#sigarra)) | Estudantes, época normal | 1.ª fase até 8/jan/2027; 2.ª fase até 29/jan/2027 |
 | Submissão de propostas de estágio de inverno/verão ([detalhes](propostas.md#epocas-concentradas)) | Estudantes | ver prazos |
 
 ## Como funciona
