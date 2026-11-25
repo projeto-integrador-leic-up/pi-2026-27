@@ -55,12 +55,12 @@ Nas épocas concentradas o estágio tem pelo menos 162 h, entre 8 e 35 h por sem
 |---|---|---|
 | até 8 jan | Submissão de propostas (A: 1.ª fase, no SIGARRA; B: no formulário) | A e B |
 | até 15 jan | Feedback sobre as propostas e publicação das propostas aprovadas | A e B |
-| 16–26 jan | Candidaturas – 1.ª fase; os estudantes podem e devem contactar os proponentes | B |
+| 16–26 jan | Candidaturas – 1.ª fase; os estudantes podem contactar os proponentes | B |
 | 27–28 jan | Seriação dos candidatos pelos proponentes | B |
-| _a definir_ | Atribuição dos projetos | B |
-| _a definir_ | Candidaturas – 2.ª fase, aos subprojetos ainda livres | B |
-| até 29 jan | Submissão de propostas – 2.ª fase, no SIGARRA | A |
-| 1–5 fev | Atribuição de tutores | A e B |
+| 29 jan | Atribuição dos projetos | B |
+| 5 fev | Candidaturas – 2.ª fase, aos subprojetos ainda livres | B |
+| 5 fev | Submissão de propostas – 2.ª fase, no SIGARRA | A |
+| 8–5 fev | Atribuição de tutores | A e B |
 | 1–12 fev | Preenchimento e assinatura do contrato (projetos em entidades externas) | A e B |
 | 15 fev | Início do 2.º semestre | A e B |
 | 4 jun | Fim do período de aulas | A e B |
