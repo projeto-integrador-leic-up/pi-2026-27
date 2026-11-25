@@ -41,8 +41,8 @@ Quem quer um projeto seu numa unidade da U.Porto deve encontrar um docente que a
 | 1. Acordo com a entidade sobre o estágio, o supervisor e a dedicação semanal | antes de submeter |
 | 2. Submissão da proposta no SIGARRA ([instruções](#sigarra)): 1.ª fase | até 8 jan 2027 |
 | 2. Submissão da proposta no SIGARRA: 2.ª fase | até 5 fev 2027 |
-| 3. Avaliação da proposta pela equipa docente e feedback ao estudante | 1.ª fase: até 15 jan; 2.ª fase: após o fecho |
-| 4. [Atribuição de tutor](#tutores) | 1.ª fase: 1 fev; 2.ª fase: _a definir_ |
+| 3. Avaliação da proposta pela equipa docente e feedback ao estudante | 1.ª fase: até 15 jan; 2.ª fase: até 8 fev |
+| 4. [Atribuição de tutor](#tutores) | 1.ª fase: 1 fev; 2.ª fase: 8 fev |
 | 5. Preenchimento e assinatura do [contrato](contratos.md) | 1–12 fev |
 
 Uma proposta pode ficar:
@@ -65,9 +65,7 @@ Em alternativa à época normal, o estágio pode decorrer de forma concentrada:
 {: .warning }
 **Estágio de verão e candidatura a mestrado.** A classificação de um estágio de verão só é lançada em setembro (até 15 de setembro, segundo o calendário escolar da FEUP). Se pretende candidatar-se a um mestrado, confirme primeiro que esta data é compatível com os prazos da candidatura.
 
-**Antecipação: verão entre o 2.º e o 3.º ano.** Também é possível fazer o estágio por antecipação, no verão entre o 2.º e o 3.º ano. É preciso validar a proposta previamente com os coordenadores da UC, e aplicam-se as mesmas regras dos outros estágios concentrados. A classificação só é lançada depois, quando o estudante se inscrever na UC, no fim desse semestre.
-
-As regras estão no [Regulamento dos Pedidos de Antecipação ou Adiamento de Estágio Curricular](https://drive.google.com/file/d/1j6SyC3CGBo9n35DbXUy85RCUdhGQrTvb/view?usp=sharing).
+**Antecipação: verão entre o 2.º e o 3.º ano.** Também é possível fazer o estágio por antecipação, no verão entre o 2.º e o 3.º ano. É preciso validar a proposta previamente com os coordenadores da UC, e aplicam-se as mesmas regras dos outros estágios concentrados. A defesa é em março, como no inverno, e a classificação só é lançada depois de o estudante se inscrever na UC, no fim desse semestre.
 
 **Admissibilidade.** Todas as condições têm de se verificar:
 
@@ -155,11 +153,11 @@ O proponente ou supervisor compromete-se a acompanhar cada estudante todas as se
 |---|---|
 | 1. Submissão da proposta no [formulário](https://forms.gle/dQ5DrfXWi2ZNx3qb7) | até 8 jan |
 | 2. Feedback aos proponentes e publicação das propostas aprovadas aos estudantes | até 15 jan |
-| 3. [Candidaturas](#candidaturas) – 1.ª fase; os estudantes são incentivados a contactar os proponentes | 18–27 jan |
+| 3. [Candidaturas](#candidaturas) – 1.ª fase; os estudantes devem contactar os proponentes | 18–27 jan |
 | 4. Seriação dos candidatos pelos proponentes, sem interação com os estudantes nesta fase | 28–29 jan |
 | 5. Atribuição dos projetos pela equipa docente (método dos casamentos estáveis) e dos tutores | 1 fev |
 | 6. Candidaturas – 2.ª fase, aos subprojetos ainda livres | até 5 fev |
-| 7. Atribuição dos projetos e [tutores](#tutores) da 2.ª fase | _a definir_ |
+| 7. Atribuição dos projetos e [tutores](#tutores) da 2.ª fase | 8 fev |
 | 8. Início dos projetos, com a [reunião de arranque](realizacao.md#arranque) | 19 fev |
 
 Se a entidade for externa à U.Porto, é necessário um [contrato](contratos.md). O processo é iniciado com o Secretariado, mas não impede o início do projeto.
@@ -170,7 +168,7 @@ Se a entidade for externa à U.Porto, é necessário um [contrato](contratos.md)
 - Só se podem candidatar os estudantes inscritos na UC que **não tenham uma proposta própria aprovada ou pendente**.
 - Cada estudante indica **5 a 10 subprojetos** por ordem de preferência, com uma motivação para cada um.
 - Formulário de candidatura: _a disponibilizar_
-- Durante o período de candidatura (18–27 jan), os estudantes são incentivados a contactar os proponentes dos subprojetos que lhes interessam. Na seriação (28–29 jan) já não há interação com os estudantes.
+- Durante o período de candidatura (18–27 jan), os estudantes devem contactar os proponentes dos subprojetos que lhes interessam. Na seriação (28–29 jan) já não há interação com os estudantes.
 
 ---
 

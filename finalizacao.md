@@ -6,7 +6,7 @@ nav_order: 5
 # Fase 3 – Entregas e avaliação
 {: .no_toc }
 
-O processo é **igual nas três épocas**. Só as datas mudam: a defesa é em março no inverno, em junho/julho na época normal e em setembro no verão. Os critérios, os pesos e a fórmula estão na [ficha da UC](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=587008).
+O processo é **igual em todas as épocas**. Só as datas mudam: a defesa é em março no inverno e no verão antecipado, de 28 jun a 9 jul na época normal e em setembro no verão. Os critérios, os pesos e a fórmula estão na [ficha da UC](https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=587008).
 
 1. TOC
 {:toc}
@@ -23,16 +23,16 @@ O processo é **igual nas três épocas**. Só as datas mudam: a defesa é em ma
 
 ## Prazos
 
-| Entrega / evento | Inverno | Normal | Verão |
+| Entrega / evento | Inverno e verão antecipado | Normal | Verão |
 |---|---|---|---|
 | Relatório retrospetivo (estudante) | 2 semanas após a conclusão do estágio | 2 semanas após o fim do período letivo (18 jun 2027) | 2 semanas após a conclusão do estágio |
 | Grelha de avaliação (supervisor) | _a definir_ | _a definir_ | _a definir_ |
-| Apresentações e discussões | março | junho/julho | época especial de conclusão (normalmente na 1.ª quinzena de setembro) |
+| Apresentações e discussões | março | 28 jun – 9 jul | época especial de conclusão (normalmente na 1.ª quinzena de setembro) |
 
 As datas das apresentações são as do bloco marcado pelo Secretariado no mapa de exames de cada época.
 
 {: .note }
-No estágio de verão a classificação é lançada até 15 de setembro. Quem pretende candidatar-se a mestrado deve confirmar que esta data é compatível com a candidatura. No verão antecipado (entre o 2.º e o 3.º ano), a classificação só é lançada depois da inscrição na UC, no fim desse semestre.
+No estágio de verão a classificação é lançada até 15 de setembro. Quem pretende candidatar-se a mestrado deve confirmar que esta data é compatível com a candidatura. No verão antecipado (entre o 2.º e o 3.º ano), a defesa é em março e a classificação só é lançada depois da inscrição na UC, no fim desse semestre.
 
 ## Relatório final retrospetivo (estudante)
 
