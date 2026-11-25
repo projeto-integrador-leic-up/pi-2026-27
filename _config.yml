@@ -1,0 +1,19 @@
+title: Projeto Integrador – L.EIC 2026/27
+description: Site da unidade curricular de Projeto Integrador da Licenciatura em Engenharia Informática e Computação (FEUP)
+lang: pt-PT
+
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+search_enabled: true
+aux_links:
+  "Ficha da UC (SIGARRA)":
+    - "https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=587008"
+aux_links_new_tab: true
+
+footer_content: "Projeto Integrador · L.EIC · FEUP · 2026/27"
+
+exclude:
+  - README.md
+  - .gitignore
