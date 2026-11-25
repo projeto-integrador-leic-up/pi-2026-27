@@ -10,14 +10,17 @@ Esta fase vai da submissão de propostas até cada estudante ter um projeto, um 
 
 As propostas são escritas em português ou em inglês. A equipa docente valida-as quanto à relevância pedagógica, dimensão e viabilidade.
 
+{: .note }
+Todos os projetos realizados numa **entidade externa à U.Porto** são enquadrados como **estágio curricular** e exigem a celebração de um [contrato](contratos.md), seja quem for o proponente.
+
 1. TOC
 {:toc}
 
 ---
 
-## Modalidade A – Por iniciativa do estudante (estágio curricular)
+## Modalidade A – Propostas de estudantes
 
-O estudante encontra uma oportunidade de estágio e propõe-na. Pode procurar, por exemplo:
+O estudante encontra uma oportunidade numa entidade externa e propõe o projeto, que é realizado como estágio curricular. Pode procurar, por exemplo:
 
 - na [Bolsa de Emprego da FEUP](https://sigarra.up.pt/feup/pt/WEB_BASE.GERA_PAGINA?P_pagina=19498);
 - na **lista de entidades que acolheram estudantes de PI em edições anteriores**, disponível no Moodle da UC;
@@ -25,7 +28,7 @@ O estudante encontra uma oportunidade de estágio e propõe-na. Pode procurar, p
 
 Requisitos:
 
-- O estágio consiste em resolver um **problema real** com conhecimentos de Informática adquiridos no curso.
+- O projeto consiste em resolver um **problema real** com conhecimentos de Informática adquiridos no curso.
 - A entidade de acolhimento é **externa à U.Porto** e tem personalidade jurídica própria (NIF diferente do da FEUP/UP), porque é obrigatório um [contrato](contratos.md) com a FEUP.
 - A entidade indica o **supervisor** e dá o seu acordo à proposta.
 
@@ -125,10 +128,10 @@ Aplica-se aos estágios da época normal.
 
 ---
 
-## Modalidade B – Por iniciativa de docentes ou entidades convidadas
+## Modalidade B – Propostas de docentes ou entidades convidadas
 {: #modalidade-b }
 
-Para **docentes** e **entidades empresariais ou de investigação convidadas**. O projeto pode decorrer na U.Porto ou numa entidade externa.
+Para **docentes** e **entidades empresariais ou de investigação convidadas**. O projeto pode decorrer na U.Porto ou numa entidade externa; neste último caso é enquadrado como estágio curricular, com contrato.
 
 ### Propostas com subprojetos
 

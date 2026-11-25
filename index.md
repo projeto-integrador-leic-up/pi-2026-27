@@ -13,11 +13,14 @@ A informação oficial está na [ficha da UC no SIGARRA](https://sigarra.up.pt/f
 
 ## Links ativos
 
-| O quê | Para quem | Prazo |
+| Propostas de projeto submetidas por | Onde | Prazo |
 |---|---|---|
-| [Submissão de propostas por docentes e entidades externas](https://forms.gle/dQ5DrfXWi2ZNx3qb7) | Docentes e entidades convidadas | até 8/jan/2027 |
-| [Submissão de propostas por estudantes (só estágio curricular)](https://sigarra.up.pt/feup/pt/estagios_processos.ver_processo?p_id=34536&pv_perfil=PROP) ([instruções](propostas.md#sigarra)) | Estudantes, época normal | 1.ª fase até 8/jan/2027; 2.ª fase até 29/jan/2027 |
-| Submissão de propostas de estágio de inverno/verão ([detalhes](propostas.md#epocas-concentradas)) | Estudantes | ver prazos |
+| Docentes e entidades convidadas | [Formulário de proposta](https://forms.gle/dQ5DrfXWi2ZNx3qb7) | até 8/jan/2027 |
+| Estudantes – época normal | [SIGARRA](https://sigarra.up.pt/feup/pt/estagios_processos.ver_processo?p_id=34536&pv_perfil=PROP) ([instruções](propostas.md#sigarra)) | 1.ª fase até 8/jan/2027; 2.ª fase até 29/jan/2027 |
+| Estudantes – inverno/verão | [Formulário fora de época](https://docs.google.com/forms/d/e/1FAIpQLSd4kglENa14-Na1MmOfTWhecwE58sv7ZVjh7eyx4tdtJ8pBxw/viewform) ([detalhes](propostas.md#epocas-concentradas)) | ver prazos |
+
+{: .note }
+Todos os projetos realizados numa **entidade externa à U.Porto** são enquadrados como **estágio curricular** e exigem a celebração de um [contrato](contratos.md), seja quem for o proponente.
 
 ## Como funciona
 
@@ -27,13 +30,13 @@ A informação oficial está na [ficha da UC no SIGARRA](https://sigarra.up.pt/f
 | 2. Realização do projeto (162 h) | [Realização do projeto](realizacao.md) |
 | 3. Entregas, apresentação e avaliação | [Entregas e avaliação](finalizacao.md) |
 
-## Duas formas de chegar a um projeto
+## Quem pode propor projetos
 
-**A. Por iniciativa do estudante (estágio curricular).**
-O estudante encontra uma oportunidade numa entidade empresarial ou de investigação **externa à U.Porto**, com NIF próprio. Submete a proposta, que é validada pela equipa docente. O estágio pode decorrer numa de três épocas (ver abaixo).
+**A. Propostas de estudantes.**
+O estudante encontra uma oportunidade numa entidade empresarial ou de investigação **externa à U.Porto**, com NIF próprio, e submete a proposta, que é validada pela equipa docente. O projeto pode decorrer em qualquer das épocas (ver abaixo).
 
-**B. Por iniciativa de docentes ou de entidades convidadas.**
-Docentes e entidades empresariais ou de investigação convidadas submetem propostas. O projeto pode decorrer na U.Porto ou numa entidade externa. Cada proposta pode conter **até 4 subprojetos** com o mesmo supervisor e o mesmo contexto, mas com objetivos e tarefas próprios de cada estudante. Os estudantes candidatam-se às propostas aprovadas e a equipa docente faz a atribuição. Estes projetos decorrem na época normal. No caso da instituição de acolhimento ser externa à U.Porto, pode também ser enquadrado como estágio curricular. 
+**B. Propostas de docentes ou de entidades convidadas.**
+Docentes e entidades empresariais ou de investigação convidadas submetem propostas. O projeto pode decorrer na U.Porto ou numa entidade externa. Cada proposta pode conter **até 4 subprojetos** com o mesmo supervisor e o mesmo contexto, mas com objetivos e tarefas próprios de cada estudante. Os estudantes candidatam-se às propostas aprovadas e a equipa docente faz a atribuição. Estes projetos decorrem na época normal.
 
 ## Épocas de realização
 
@@ -48,7 +51,7 @@ Nas épocas concentradas o estágio tem pelo menos 162 h, entre 8 e 35 h por sem
 
 ## Calendário 2026/27 (época normal)
 
-| Data | Modalidade A (estágio por iniciativa do estudante) | Modalidade B (propostas de docentes/entidades) |
+| Data | A. Propostas de estudantes | B. Propostas de docentes/entidades |
 |---|---|---|
 | até 8 jan | Submissão de propostas no SIGARRA – 1.ª fase | Submissão de propostas |
 | até 15 jan | | Publicação das propostas aprovadas |
