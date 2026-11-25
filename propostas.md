@@ -37,9 +37,9 @@ Quem quer um projeto seu numa unidade da U.Porto deve encontrar um docente que a
 | Passo | Quando |
 |---|---|
 | 1. Acordo com a entidade sobre o estágio, o supervisor e a dedicação semanal | antes de submeter |
-| 2. Submissão da proposta no SIGARRA ([instruções](#sigarra)): 1.ª fase | 16 nov 2026 – 8 jan 2027 |
+| 2. Submissão da proposta no SIGARRA ([instruções](#sigarra)): 1.ª fase | até 8 jan 2027 |
 | 2. Submissão da proposta no SIGARRA: 2.ª fase | até 29 jan 2027 |
-| 3. Avaliação da proposta pela equipa docente | rondas a 18 jan, 25 jan e 1 fev |
+| 3. Avaliação da proposta pela equipa docente | após o fecho de cada fase |
 | 4. [Atribuição de tutor](#tutores) | 1–5 fev |
 | 5. Preenchimento e assinatura do [contrato](contratos.md) | 1–12 fev |
 
@@ -49,10 +49,8 @@ Uma proposta pode ficar:
 - **Rejeitada parcialmente**: o estudante corrige-a conforme o comentário do avaliador, que aparece no topo da proposta, e volta a submetê-la. Só é reavaliada uma vez.
 - **Rejeitada**.
 
-Na última ronda, as propostas "Em aprovação" são aprovadas ou rejeitadas e as restantes são descartadas.
-
 {: .note }
-A 1.ª fase termina no mesmo dia que a submissão de propostas de docentes e entidades (8 jan). Quem submete até essa data recebe a decisão na 1.ª ronda (18 jan), antes das [candidaturas](#candidaturas) às propostas de docentes e entidades. Quem tem uma proposta de estágio pendente não se pode candidatar a essas propostas. A 2.ª fase serve sobretudo os estudantes que não obtiveram projeto pelas candidaturas.
+A 1.ª fase termina no mesmo dia que a submissão de propostas de docentes e entidades (8 jan). Quem submete até essa data recebe a decisão antes das [candidaturas](#candidaturas) às propostas de docentes e entidades. Quem tem uma proposta de estágio pendente não se pode candidatar a essas propostas. A 2.ª fase serve sobretudo os estudantes que não obtiveram projeto pelas candidaturas.
 
 ### Épocas concentradas (inverno e verão)
 {: #epocas-concentradas }

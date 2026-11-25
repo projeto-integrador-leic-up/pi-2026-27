@@ -50,9 +50,8 @@ Nas épocas concentradas o estágio tem pelo menos 162 h, entre 8 e 35 h por sem
 
 | Data | Modalidade A (estágio por iniciativa do estudante) | Modalidade B (propostas de docentes/entidades) |
 |---|---|---|
-| até 8 jan | Submissão de propostas no SIGARRA – 1.ª fase (desde 16 nov) | Submissão de propostas |
+| até 8 jan | Submissão de propostas no SIGARRA – 1.ª fase | Submissão de propostas |
 | até 15 jan | | Publicação das propostas aprovadas |
-| 18 jan, 25 jan, 1 fev | Rondas de avaliação das propostas | |
 | até 22 jan | | Candidaturas – 1.ª fase |
 | 25–26 jan | | Seriação dos candidatos pelos proponentes |
 | 27 jan | | Atribuição dos projetos |
